@@ -7,13 +7,13 @@ export const aboutSection: AboutSectionType = {
   list: {
     title: 'Here are a few technologies I’ve been working with recently:',
     items: [
-      'NextJs',
+      'React.js & Next.js',
+      'TypeScript',
       'TailwindCSS',
-      'ExpressJs',
-      'AI/ML',
-      'Prisma',
-      'CSS Animations',
+      'Prisma & Firebase',
+      'ERP Systems & Odoo',
+      'Financial Modeling & Risk Analysis',
     ],
   },
-  img: '/vatsal-singh.png',
+  img: '/george.jpg',
 };

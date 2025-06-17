@@ -24,32 +24,8 @@ const About = () => {
       <main className="flex flex-col items-center gap-16 lg:items-start lg:flex-row">
         <div className="space-y-4 lg:w-3/5">
           <p>
-            Hi, my name is Vatsal Singh, a first-year MCA student at{' '}
-            <Link
-              href="https://bhu.ac.in/"
-              target="_blank"
-              className="text-accent"
-            >
-              Banaras Hindu University
-            </Link>
-            .<br /> I'm an Artist as well as crazy full stack web developer who
-            wants to explore every tech stack.
-          </p>
-          <p>
-            Fast-forward to today, and I've had the privilege of working at a
-            start-up -{' '}
-            <Link
-              href="https://www.pixelwand.live/"
-              target="_blank"
-              className="text-accent"
-            >
-              Pixelwand
-            </Link>
-            .
-          </p>
-          <p>
-            My main focus these days is learning mobile development and finding
-            a decent job.
+           Fast-forward to today, I've had the privilege of working on impactful projects in fintech, consulting, and ERP customization—leveraging my skills in actuarial science and software engineering.
+            My main focus these days is refining digital solutions for financial services, enhancing business process automation, and strategically aligning technology with industry needs.
           </p>
 
           {list && (

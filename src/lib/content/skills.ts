@@ -13,9 +13,10 @@ export const skillsSection: SkillsSectionType = {
         dark: '/lotties/frontend-dark.json',
       },
       points: [
-        'Building full-stack web applications using Next.js with TypeScript, TailwindCSS, ShadCN, and Prisma',
-        'Developing responsive single-page applications using React.js',
-        'Creating RESTful APIs using Express for backend development',
+        'Crafting scalable and intuitive web applications using React.js, Next.js, and TypeScript, ensuring seamless user experiences.',
+        'Applying actuarial expertise in financial modeling, risk assessment, and digital transformation strategies.',
+        'Customizing ERP modules and enhancing financial services solutions through strategic software engineering.',
+        'Developing efficient back-end systems with Express.js, Prisma, and Firebase, supporting data-driven applications.'
       ],
       softwareSkills: [
         // iconify icons: https://icon-sets.iconify.design/
@@ -46,9 +47,9 @@ export const skillsSection: SkillsSectionType = {
         dark: '/lotties/designing-dark.json',
       },
       points: [
-        'Experience in designing user-friendly interfaces with figma',
-        'Experience in developing design systems and style guides',
-        'Providing user-friendly design solutions',
+        'Creating intuitive and business-driven interfaces that enhance user experience and functionality.',
+        'Developing scalable design systems and style guides to ensure consistency across financial and enterprise applications.',
+        'Optimizing user flows and accessibility for fintech and business solutions, leveraging Figma for structured prototyping and implementation.',
       ],
       softwareSkills: [
         { name: 'figma', icon: 'logos:figma' },
