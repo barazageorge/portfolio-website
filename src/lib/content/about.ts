@@ -8,6 +8,7 @@ export const aboutSection: AboutSectionType = {
     title: 'Here are a few technologies I’ve been working with recently:',
     items: [
       'React.js & Next.js',
+      'Angular',
       'TypeScript',
       'TailwindCSS',
       'Prisma & Firebase',
