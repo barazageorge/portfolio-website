@@ -15,7 +15,7 @@ export const skillsSection: SkillsSectionType = {
       points: [
         'I craft scalable and intuitive web applications using React.js, Next.js, and TypeScript, ensuring seamless user experiences.',
         'I apply actuarial expertise in financial modeling, risk assessment, and digital transformation strategies.',
-        'I customize ERP modules and enhancing financial services solutions through strategic software engineering.',
+        'I customize ERP modules and enhance financial services solutions through strategic software engineering.',
         'I develop efficient back-end systems with Express.js, Prisma, and Firebase, supporting data-driven applications.'
       ],
       softwareSkills: [
