@@ -12,8 +12,7 @@ export const aboutSection: AboutSectionType = {
       'TypeScript',
       'TailwindCSS',
       'Prisma & Firebase',
-      'ERP Systems & Odoo',
-      'Financial Modeling & Risk Analysis',
+      'Odoo'
     ],
   },
   img: '/george.jpg',

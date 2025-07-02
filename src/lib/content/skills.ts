@@ -41,7 +41,7 @@ export const skillsSection: SkillsSectionType = {
     },
     {
       id: getId(),
-      title: 'UI/UX designing',
+      title: 'UI/UX design',
       lottie: {
         light: '/lotties/designing.json',
         dark: '/lotties/designing-dark.json',

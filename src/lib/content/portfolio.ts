@@ -7,8 +7,8 @@
 import { StringKeyValueType } from '../types';
 
 export const socialLinks: StringKeyValueType = {
-  //facebook: 'https://www.facebook.com/vatsalsinghkv',
-  //instagram: 'https://www.instagram.com/vatsalsinghkv',
+  facebook: 'https://www.facebook.com/profile.php?id=61575608203746',
+  instagram: 'https://www.instagram.com/_barrowde/',
   twitter: 'https://x.com/_Baraza1',
   github: 'https://github.com/barazageorge',
   linkedin: 'https://www.linkedin.com/in/george-baraza/',

@@ -24,7 +24,7 @@ const About = () => {
       <main className="flex flex-col items-center gap-16 lg:items-start lg:flex-row">
         <div className="space-y-4 lg:w-3/5">
           <p>
-           Fast-forward to today, I've had the privilege of working on impactful projects in fintech, consulting, and ERP customization—leveraging my skills in actuarial science and software engineering.
+           Rooted in a strong academic foundation, I earned my Bachelor's degree in Actuarial Science from the Catholic University of Eastern Africa. This rigorous training instilled in me a disciplined approach to problem-solving, quantitative analysis, and risk assessment, skills that have proven invaluable as I've transitioned into software engineering and digital consulting. Fast-forward to today, I've had the privilege of working on impactful projects in fintech, consulting, and ERP customization—leveraging my skills in actuarial science and software engineering.
             My main focus these days is refining digital solutions for financial services, enhancing business process automation, and strategically aligning technology with industry needs.
           </p>
 
