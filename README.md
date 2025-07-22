@@ -2,7 +2,7 @@
   georgebaraza.netlify.app
 </h1>
 <p align="center">
-  A portfolio website i.e. <a href="https://vatsalsinghkv.vercel.app" target="_blank">vatsalsinghkv.vercel.app</a> built with <a href="https://nextjs.org/" target="_blank">Next.js</a> and hosted with <a href="https://vercel.com/" target="_blank">Vercel</a>
+  A portfolio website i.e. <a href="https://georgebaraza.netlify.app" target="_blank">george baraza</a> built with <a href="https://nextjs.org/" target="_blank">Next.js</a> and hosted with <a href="https://netlify.com/" target="_blank">Netlify</a>
 </p>
 
 <p align="center">
@@ -14,7 +14,7 @@
 
 <br>
 
-[![My Portfolio](public/bgphoto.png.png)](https://georgebaraza.netlify.app/)
+[![My Portfolio](public/bgphoto.png)](https://georgebaraza.netlify.app/)
 
 ## Table of Contents
 
@@ -51,7 +51,7 @@
 
 1. Fork this repository and clone the project
 
-###### Please give me proper credit by linking back to [vatsalsinghkv.vercel.app](https://vatsalsinghkv.vercel.app).
+###### Please give me proper credit by linking back to [georgebaraza.netlify.app](https://georgebaraza.app).
 
 ```bash
   git clone https://github.com/<YOUR USERNAME>/portfolio-website.git
