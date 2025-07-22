@@ -12,5 +12,6 @@ export const heroSection: HeroSectionType = {
     title: 'Download Resume',
     url: `/${resumeFileName}`,
     hideInDesktop: true,
+    hideInMobile: true,
   },
 };
