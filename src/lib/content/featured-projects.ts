@@ -2,9 +2,9 @@ import { FeaturedProjectsSectionType } from '@/lib/types/sections';
 import { getId } from '@/lib/utils/helper';
 
 const featuredProjectsSection: FeaturedProjectsSectionType = {
-  title: "projects i've worked on",
+  title: "projects i have worked on",
   projects: [
-    /*{
+    {
       id: getId(),
       name: 'GetLifeGuard',
       description: 'An E-Commerce platform for Self-Defense Keychain.',
@@ -20,8 +20,9 @@ const featuredProjectsSection: FeaturedProjectsSectionType = {
         'Prisma',
         'Stripe',
       ]
-    },*/
-    {
+    },
+
+    /*{
       id: getId(),
       name: 'Valuemetrix',
       description: 'An AI Powered Investment Platform.',
@@ -29,7 +30,9 @@ const featuredProjectsSection: FeaturedProjectsSectionType = {
       url: 'https://www.valuemetrix.io/',
       img: 'https://www.valuemetrix.io/images/og.png',
       tags: ['Tensorflow', 'Next 14', 'TypeScript', 'TailwindCSS', 'Prisma'],
-    },
+    },*/
+
+
     {
       id: getId(),
       name: 'Velvi Matrimony',
@@ -37,7 +40,7 @@ const featuredProjectsSection: FeaturedProjectsSectionType = {
         'A platform that redefines the way individuals find their life partners.',
       tasks:
         'As a freelancer, I led the development of Velvi Matrimony by planning the project roadmap, coordinating with the client for feedback, and implementing real-time data fetching with filtering—delivering a responsive and dynamic matchmaking platform.',
-      url: 'https://velvi.vercel.app/',
+      url: 'https://www.velvimatrimony.in/',
       img: 'https://i.postimg.cc/tRS4GvzJ/Screenshot-2024-02-27-at-5-48-49-PM.png',
       tags: ['Next 14', 'TypeScript', 'TailwindCSS', 'REST APIs'],
     },
