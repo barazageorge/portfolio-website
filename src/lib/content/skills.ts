@@ -6,7 +6,7 @@ export const skillsSection: SkillsSectionType = {
   skills: [
     {
       id: getId(),
-      title: 'full stack development',
+      title: 'full stack web development',
       // animation lottie file: https://lottiefiles.com/
       lottie: {
         light: '/lotties/frontend.json',
@@ -16,7 +16,8 @@ export const skillsSection: SkillsSectionType = {
         'I craft scalable and intuitive web applications using React.js, Next.js, and TypeScript, ensuring seamless user experiences.',
         'I apply actuarial expertise in financial modeling, risk assessment, and digital transformation strategies.',
         'I customize ERP modules and enhance financial services solutions through strategic software engineering.',
-        'I develop efficient back-end systems with Express.js, Prisma, and Firebase, supporting data-driven applications.'
+        'I develop efficient back-end systems with Express.js, Prisma, and Firebase, supporting data-driven applications.',
+        'I utilize content management systems like WordPress, Drupal, and Joomla to build and manage dynamic web experiences.',
       ],
       softwareSkills: [
         // iconify icons: https://icon-sets.iconify.design/
@@ -32,6 +33,7 @@ export const skillsSection: SkillsSectionType = {
         { name: 'prisma', icon: 'vscode-icons:file-type-prisma' },
         { name: 'reactjs', icon: 'logos:react' },
         { name: 'nextjs', icon: 'logos:nextjs-icon' },
+        { name: 'wordpress', icon: 'logos:wordpress' },
         // { name: 'angularjs', icon: 'logos:angular-icon' },
         { name: 'tailwindcss', icon: 'logos:tailwindcss-icon' },
         { name: 'redux', icon: 'logos:redux' },

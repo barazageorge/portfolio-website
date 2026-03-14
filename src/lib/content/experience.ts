@@ -1,22 +1,26 @@
 import { ExperienceSectionType } from '@/lib/types/sections';
 
 export const experienceSection: ExperienceSectionType = {
-  title: "where i've worked",
+  title: "where i have worked",
   experiences: [
     {
       company: 'Ela Techlabs',
-      companyUrl: 'https://www.syscraft.co.ke/',
-      role: 'software engineer',
-      started: 'July 2025',
+      companyUrl: 'https://elatech.co.ke/',
+      role: 'web developer',
+      started: '2024',
       upto: 'present',
       tasks: [
-        'Increased front-end scalability by implementing modular UI components using React, Next.js, TypeScript, and Tailwind CSS, which led to a 40% reduction in development time for new features..',
-        'Enhanced design consistency by developing and maintaining a centralized design system, resulting in a more efficient handoff between designers and developers and minimizing UI discrepancies.',
-        'Boosted client satisfaction and delivery efficiency by actively engaging with stakeholders, strategizing development roadmaps, and proposing tailored solutions—leading to successful launch of a client-facing SaaS platform ahead of schedule..',
-        'Led a cross-functional team of 5 developers and designers to build a SaaS product from concept to deployment, which improved product usability and achieved a 20% increase in user retention within the first three months.',
+        'I increased user engagement by 25% by developing and enhancing 15+ responsive website and web application features using modern JavaScript frameworks and UX optimization techniques.',
+        'I improved website performance with 35–45% faster page load times by implementing lazy loading, code splitting, and asset compression strategies.',
+        'I reduced front-end API errors by 30% by integrating and optimizing RESTful API communication between front-end interfaces and backend services.',
+        'I strengthened application security by implementing secure input validation and client-side protection mechanisms, reducing potential cross-site scripting vulnerabilities.',
+        'I increased feature adoption by 20% by integrating Google Analytics and Firebase Analytics to enable data-driven improvements to website functionality.',
+        'I reduced development time for new website features by 30% by creating reusable UI components and modular front-end architecture.',
+        'I accelerated deployment cycles by 40% by implementing Git-based CI/CD workflows and improving development collaboration practices.',
+        'I improved code quality and reduced post-release defects by 25% by conducting structured peer code reviews and enforcing front-end development standards.',
       ],
     },
-    {
+    /*{
       company: 'Upwork',
       companyUrl: 'https://www.upwork.com/',
       role: 'freelance software engineer',
@@ -29,17 +33,19 @@ export const experienceSection: ExperienceSectionType = {
         'Improved client reporting accuracy by integrating real-time data fetching and validation logic, which reduced manual errors and boosted stakeholder trust in the platform’s insights.'
       ],
     },
+    */
     {
       company: 'Syscraft Limited',
       companyUrl: 'https://syscraft.co.ke/',
-      role: 'software development intern',
-      started: 'may 2023',
-      upto: 'august 2023',
+      role: 'junior web developer',
+      started: '2023',
+      upto: '2024',
       tasks: [
-        'Customized ERP modules on Odoo, improving business operations for SMEs, with emphasis on risk tracking and process audit trails..',
-        'Built a philanthropic donation tracker using React and Firebase—highlighting transparency and auditability, key principles in risk assessment.',
-        'Developed and maintained a personal portfolio showcasing projects that blend tech and data analytics on GitHub.',
-        'Facilitated knowledge transfer by creating internal guides and technical documentation for custom Odoo features, making it easier for the team to onboard future interns or junior developers.',
+        'I improved enterprise web platform usability by 20% by optimizing front-end interfaces and responsive layouts for ERP web modules used by multiple clients.',
+        'I reduced manual processing workflows by 15% by integrating web interfaces with backend systems using REST APIs and AJAX.',
+        'I increased system stability and cross-browser compatibility by implementing optimized DOM manipulation and UI performance improvements.',
+        'I improved issue resolution turnaround time by 30% by documenting and escalating 25+ technical issues and collaborating with vendors on system fixes and improvements.',
+        'I enhanced platform maintainability by implementing structured front-end code practices and version control using Git.',
       ],
     },
   ],
