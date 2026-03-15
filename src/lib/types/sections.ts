@@ -24,6 +24,7 @@ export interface HeroSectionType extends Section {
   specialText?: string;
   cta?: CTAType & {
     hideInDesktop?: boolean;
+    hideInMobile?: boolean;
   };
 }
 
