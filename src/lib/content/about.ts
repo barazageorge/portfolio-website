@@ -12,7 +12,7 @@ export const aboutSection: AboutSectionType = {
       'TypeScript',
       'TailwindCSS',
       'Prisma & Firebase',
-      'Odoo'
+      'Odoo',
       'WordPress',
     ],
   },
