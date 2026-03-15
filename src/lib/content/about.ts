@@ -13,7 +13,7 @@ export const aboutSection: AboutSectionType = {
       'TailwindCSS',
       'Prisma & Firebase',
       'Odoo'
-      'WordPress, Drupal & Joomla',
+      'WordPress',
     ],
   },
   img: '/george.jpg',
