@@ -2,7 +2,7 @@
   georgebaraza.netlify.app
 </h1>
 <p align="center">
-  A portfolio website i.e. <a href="https://georgebaraza.netlify.app" target="_blank">george baraza</a> built with <a href="https://nextjs.org/" target="_blank">Next.js</a> and hosted with <a href="https://netlify.com/" target="_blank">Netlify</a>
+  A portfolio website built with <a href="https://nextjs.org/" target="_blank">Next.js</a> and hosted with <a href="https://netlify.com/" target="_blank">Netlify</a>
 </p>
 
 <p align="center">
