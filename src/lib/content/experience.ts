@@ -38,7 +38,7 @@ export const experienceSection: ExperienceSectionType = {
       company: 'Syscraft Limited',
       companyUrl: 'https://syscraft.co.ke/',
       role: 'junior web developer',
-      started: '2024',
+      started: '2022',
       upto: '2023',
       tasks: [
         'I improved enterprise web platform usability by 20% by optimizing front-end interfaces and responsive layouts for ERP web modules used by multiple clients.',
