@@ -5,7 +5,7 @@ export const experienceSection: ExperienceSectionType = {
   experiences: [
     {
       company: 'Ela Techlabs',
-      //companyUrl: 'https://elatech.co.ke/',
+      companyUrl: 'https://elatech.co.ke/',
       role: 'web developer',
       started: '2024',
       upto: 'present',
